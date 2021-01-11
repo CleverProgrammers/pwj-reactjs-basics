@@ -20,6 +20,17 @@ Use the tutorial [HERE](https://reactjs.org/docs/add-react-to-a-website.html)
 
 ## TODO(Together): Convert the Header to a ReactJS Component
 
+## TODO: Pass the title argument into the Header component
+
+#### HINTS:
+
+- Title should be `Amazon Cart`
+- Use props
+
+## TODO(Together): Create HTML Structure for Cart Items and Cart Total
+
+
+
 
 
 
