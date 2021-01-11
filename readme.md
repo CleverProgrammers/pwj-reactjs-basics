@@ -27,7 +27,7 @@ Use the tutorial [HERE](https://reactjs.org/docs/add-react-to-a-website.html)
 - Title should be `Amazon Cart`
 - Use props
 
-## TODO(Together): Create HTML Structure for Cart Items and Cart Total
+## TODO(Together): Create HTML/Style for Cart Items and Cart Total
 
 ## TODO: Convert Cart Items and Cart Total into components
 
