@@ -29,6 +29,11 @@ Use the tutorial [HERE](https://reactjs.org/docs/add-react-to-a-website.html)
 
 ## TODO(Together): Create HTML Structure for Cart Items and Cart Total
 
+## TODO: Convert Cart Items and Cart Total into components
+
+#### HINTS:
+- Name the components `CartItems` and `CartTotal`
+
 
 
 
