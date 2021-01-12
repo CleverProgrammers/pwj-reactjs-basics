@@ -58,6 +58,18 @@ Use the tutorial [HERE](https://reactjs.org/docs/add-react-to-a-website.html)
 
 #### TODO: Pass the data into CartItems components as props
 
+## TODO: Loop through cart items list and display them using JSX 
+
+#### HINTS:
+- Use the `.map` function
+- Output the original Cart Item with fake data
+
+## TODO: Convert CartItem component to now use props and pass them in 
+
+#### HINTS:
+- Use `item` as a prop
+- Replace fake data with data from cart items list
+
 
 
 
