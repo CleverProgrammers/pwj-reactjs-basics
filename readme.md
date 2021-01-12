@@ -83,6 +83,8 @@ Use the tutorial [HERE](https://reactjs.org/docs/add-react-to-a-website.html)
 
 The way I do it is wrong, and I want you to fix it ;) 
 
+## TODO(Together): Install your first external React Module to format the total ptice number
+
 
 
 
