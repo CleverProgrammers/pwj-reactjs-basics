@@ -69,6 +69,7 @@ Use the tutorial [HERE](https://reactjs.org/docs/add-react-to-a-website.html)
 #### HINTS:
 - Use `item` as a prop
 - Replace fake data with data from cart items list
+- For the image src use `process.env.PUBLIC_URL`
 
 
 
