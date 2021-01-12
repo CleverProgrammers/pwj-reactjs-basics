@@ -71,6 +71,18 @@ Use the tutorial [HERE](https://reactjs.org/docs/add-react-to-a-website.html)
 - Replace fake data with data from cart items list
 - For the image src use `process.env.PUBLIC_URL`
 
+## TODO(Together): Create HTML and Style for CartTotal Component
+
+## TODO: Calculate total price from cart items list
+
+#### HINTS:
+- Create a `getTotalPrice()` function
+- Output it using JSX
+
+## TODO(Homework): Correctly calculate cart total
+
+The way I do it is wrong, and I want you to fix it ;) 
+
 
 
 
