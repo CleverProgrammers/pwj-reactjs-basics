@@ -52,8 +52,11 @@ Use the tutorial [HERE](https://reactjs.org/docs/add-react-to-a-website.html)
     div.CartItem-price
 ```
 
+## TODO(Together): Create Style for individual CartItem component
 
-## TODO: 
+## TODO(Together): Import data from data.js and set it in the State
+
+#### TODO: Pass the data into CartItems components as props
 
 
 
