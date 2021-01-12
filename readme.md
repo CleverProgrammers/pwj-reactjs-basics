@@ -83,7 +83,22 @@ Use the tutorial [HERE](https://reactjs.org/docs/add-react-to-a-website.html)
 
 The way I do it is wrong, and I want you to fix it ;) 
 
-## TODO(Together): Install your first external React Module to format the total ptice number
+## TODO(Together): Install your first external React Module to format the total price number
+
+## TODO(Together): Add the ability to change item quantity in the cart
+
+## TODO: Add the ability to delete an item in the cart 
+
+#### HINTS:
+- Create a `deleteItem()` function
+- Pass the function from `CartItems` to `CartItem` component
+- Pass the `index` of the item to know which item to delete
+- Use the `filter()` function in es6 to filter out item based on index
+- Update the items using `setCartItems()` function 
+
+## TODO(Together): Cleanup
+
+## TODO(Together): Publish the APP LIVE!!!!
 
 
 
